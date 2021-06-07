@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint">192.168.43.12</string>
+    <string name="button">Button</string>
+</resources>
